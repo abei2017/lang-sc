@@ -18,6 +18,9 @@
 - Validator
 - Response
 - Logger
+- ActiveForm
+- FileHelper
+- Migrate
 
 **关于手机版**
 速查表没有手机版、没有手机版、没有手机版~~~~~ 谁在手机上搞开发啊~~~~~
