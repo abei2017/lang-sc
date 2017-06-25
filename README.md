@@ -1,5 +1,6 @@
-## Yii2速查表
-速查表访问地址：[http://nai8.me/tool-sc.html](http://nai8.me/tool-sc.html)
+<h1 align="center">Yii2速查表</h1>
+
+<p align="center">你学习Yii2路上的贴心词典。</p>
 
 通过速查表你可以方便快速查询Yii2框架功能，该项目由北哥兄弟连[http://nai8.me](http://nai8.me)发起,真诚邀请你参与进来。
 
