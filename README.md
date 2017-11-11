@@ -19,6 +19,8 @@
 ## Yii Framework（v2.0.12）
 Yii 是一个高性能的，适用于开发WEB 2.0应用的PHP框架。它自带了丰富的功能，包括 MVC，DAO/ActiveRecord，I18N/L10N，缓存，身份验证和基于角色的访问控制，脚手架，测试等，可显著缩短开发时间。
 
+当前支持：Composer / DAO / Logging / Validator / String / Session&Cookie / Request / Response / Controller / ActiveForm / FileHelper / UploadFile / Html / Alias / Query Builder / Migrate / Asset Management / Event / Route&UrlManager / RESTful
+
 [点击访问yii2速查表](http://nai8.me/tool-sc.html)
 
 ## Composer
